@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+section.img-fluid{
+    background-image: url(https://images.pexels.com/photos/5069483/pexels-photo-5069483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) ;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+}
+section.prestations{
+    text-align: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+h2,h3{
+   
+    text-decoration: underline overline solid #e4087e;
+    letter-spacing: 3px;
+    
+}
+.container{
+    margin-top: 10vh;
+}
+.box{
+    padding: 20px;
+}

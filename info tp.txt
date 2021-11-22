@@ -1,0 +1,9 @@
+faire un mini cahier des charges
+faire une presentation du site oral 
+equipe de 3
+site libre 
+inclure base de donnee
+php
+faire un cote administrateur 
+
+faire un retour mardi prochain sur le type de projet 
